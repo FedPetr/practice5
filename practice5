@@ -43,7 +43,7 @@ for i in range(len(a)):
 te = ''.join(te)
 print(te)
 
-4.
+5.
 def glas(a):
     spis = 'а, о, и, е, ё, э, ы, у, ю, я'
     spis = spis.split(', ')
